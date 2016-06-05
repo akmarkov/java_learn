@@ -8,5 +8,12 @@
       <SOURCES />
       <jarDirectory url="file://$USER_HOME$/Downloads/16_05_16_Array" recursive="false" />
     </library>
+    <library name="distribution">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/distribution.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
